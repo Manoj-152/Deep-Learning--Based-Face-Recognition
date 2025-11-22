@@ -2,8 +2,8 @@
 This project implements a deep learning-based face recognition system using a ResNet18 backbone to extract discriminative facial feature representations. By computing cosine similarity between the generated feature vectors, the model determines whether two input images belong to the same person. The overall workflow is designed to be simple, efficient, and easy to use, allowing reliable face matching through straightforward training, evaluation, and analysis.
 
 <p align="center">
-  <img src="Examples/Dwayne-Johnson/Dwayne_Johnson_Compare_Result.png" width="250">
-  <img src="Examples/Shah-Rukh-Khan/Shah-Rukh-Khan_Compare_Result.png" width="250">
+  <img src="Examples/Dwayne-Johnson/Dwayne_Johnson_Compare_Result.png" width="300">
+  <img src="Examples/Shah-Rukh-Khan/Shah-Rukh-Khan_Compare_Result.png" width="300">
 </p>
 
 *Refer to Examples folder to see some face comparisons done on celebrities*
